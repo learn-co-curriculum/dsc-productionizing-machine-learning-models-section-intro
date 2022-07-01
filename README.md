@@ -11,7 +11,7 @@ We'll begin this section by learning about all the ways that cloud computing ser
 
 ## Amazon Web Services (AWS)
 
-One we understand the importance of cloud services and how they fit into the picture for data scientists, we'll jump right in to the most popular cloud service, AWS. We'll learn about what AWS ecosystem contains and how we can use it. We'll also create an account and learn our way around the AWS dashboard. 
+Once we understand the importance of cloud services and how they fit into the picture for data scientists, we'll jump right in to the most popular cloud service, AWS. We'll learn about what AWS ecosystem contains and how we can use it. We'll also create an account and learn our way around the AWS dashboard. 
 
 ## AWS SageMaker
 
